@@ -1,0 +1,99 @@
+/* navbar */
+a.navbar-brand,
+a.nav-link,
+a.link-svg {
+ color: #383838 !important;
+ transition: 0.3s ease;
+}
+
+a.nav-link {
+ font-size: 0.875rem !important;
+}
+
+a.navbar-brand:hover,
+a.nav-link:hover,
+a.link-svg:hover {
+ color: #525252 !important;
+}
+
+/* main */
+main {
+ box-shadow: 0 -0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+.p-main {
+ font-size: 0.625rem !important;
+}
+
+.img-svg {
+ width: 25% !important;
+}
+
+.title-svg {
+ font-size: 0.625rem !important;
+ margin-top: 0.625rem !important;
+}
+
+.p-svg {
+ font-size: 0.625rem !important;
+ opacity: 0.5 !important;
+}
+
+.link-svg {
+ font-size: 0.625rem !important;
+}
+
+.arrow-list {
+ list-style: none;
+ padding-left: 0;
+ font-weight: 600;
+ opacity: 50%;
+}
+
+.arrow-list li:before {
+ content: '>';
+ margin-right: 0.5rem;
+ color: #000;
+}
+
+/* footer */
+.footer-title {
+ letter-spacing: 0.4rem;
+}
+
+.footer-text {
+ font-weight: 100;
+ font-size: 0.75rem;
+}
+
+footer ul {
+ list-style: none;
+ padding: 0;
+}
+
+footer a {
+ text-decoration: none;
+ color: white;
+ font-size: 0.75rem;
+ transition: 0.3s ease;
+}
+
+footer a:hover {
+ color: #525252 !important;
+}
+
+.footer-title-list {
+ font-size: 0.875rem;
+ margin-bottom: 1rem;
+}
+
+/* button */
+.button-up {
+ position: fixed;
+ bottom: 3%;
+ right: 2%;
+ background-color: #71c55d;
+ border: none;
+ border-radius: 0.25rem;
+ padding: 0.25rem 0.5rem;
+}
