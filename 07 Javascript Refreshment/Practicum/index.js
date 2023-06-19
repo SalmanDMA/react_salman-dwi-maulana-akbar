@@ -1,9 +1,9 @@
+// {
 // var a = 5;
 // let b = 'kampus merdeka';
 // const nama = 'Budi';
 // let terdaftar = false;
 // let lengkap_arr = [a, b, nama, terdaftar];
-
 // jawaban no 1 a
 // console.log(lengkap_arr[2]);
 // jawaban no 1 b
@@ -16,30 +16,26 @@
 // console.log('a adalah = ' + a);
 // console.log('b adalah = ' + b);
 // perkenalan();
-
 // function perkenalan() {
 //  let asal = 'Indonesia';
 //  return console.log('Perkenalkan nama saya ' + nama + ' nomor urut ' + a + ' sekarang sedang mengikuti ' + b + ' berasal dari ' + asal);
 // }
-
 // if (terdaftar === true) {
 //  console.log(nama + ' terdaftar sebagai kegiatan kampus merdeka');
 // }
-
 // a = b;
 // nama = b;
-
 // console.log('asal diakses = ' + asal);
 // console.log('a adalah ' + a);
 // console.log('b adalah ' + b);
-
 // jawaban no 2 a
 // karena nilai dari variabel terdaftar itu false, mangkanya baris kode 21, 22, 23 tidak tampil dan jika ingin tampil nilai dari terdaftar kita ganti menjadi true
 // jawaban no 2 b
 // karena variabel const itu tidak dapat di ubah nilainya atau tidak dapat di deklarasi ulang
 // jawaban no 2 c
 // tidak dapat muncul
-// karena variabel asal belum di definisikan, walaupun sudah ada di function perkenalan tetapi scope nya berbeda dengan yang ada di baris 28
+// karena variabel asal belum di definisikan, walaupun sudah ada di function perkenalan tetapi scope nya berbeda dengan yang ada di baris 28 pada soal atau baris 33 pada code saya
+// }
 
 // jawaban no 3
 // const foo = ['Budi', 'Sita', 'Ayu'];
