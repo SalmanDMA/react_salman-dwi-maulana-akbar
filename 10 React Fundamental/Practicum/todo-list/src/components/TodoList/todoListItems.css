@@ -1,0 +1,23 @@
+.todo-list-items {
+ padding-left: 1rem;
+}
+
+.todo-list-items:nth-of-type(1) {
+ margin-top: 2rem;
+}
+
+.todo-list-items > ul {
+ list-style: none;
+}
+
+.todo-list-items > ul > li {
+ padding: 1rem;
+ border: 1px solid #000000;
+ width: max-content;
+ margin-bottom: 0.5rem;
+ border-radius: 5rem;
+}
+
+.completed {
+ text-decoration: line-through;
+}
