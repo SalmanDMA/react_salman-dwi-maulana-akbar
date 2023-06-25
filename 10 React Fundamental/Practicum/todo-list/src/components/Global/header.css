@@ -1,0 +1,11 @@
+.header {
+ box-shadow: 7px 7px 5px 0px rgba(0, 0, 0, 0.4);
+ -webkit-box-shadow: 7px 7px 5px 0px rgba(0, 0, 0, 0.4);
+ -moz-box-shadow: 7px 7px 5px 0px rgba(0, 0, 0, 0.4);
+ padding: 1rem;
+}
+
+.header-title {
+ font-size: 2rem;
+ padding-left: 1rem;
+}

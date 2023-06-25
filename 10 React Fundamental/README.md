@@ -1,14 +1,14 @@
-# Introduction React
+# React Fundamental
 
 ## Description
 
-This is my ninth assignment from the Altera program. Here, I created my first react project. In this task, I added a home page, and this project uses the CRA Template.
+This is my tenth assignment from the Alterra program, and here I create a second React project. In this task, I create a simple to-do list from the data that has been provided, and we are assigned to do component composition, implementation of list rendering, and styling.
 
 ## Technology
 
 - React with the CRA Template
 
-- Bootstrap
+- CSS
 
 ## How to Install
 
