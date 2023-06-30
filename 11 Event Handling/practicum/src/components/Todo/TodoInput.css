@@ -1,0 +1,20 @@
+.form-label {
+ transform: translate(10px, -31px);
+ transition: 0.3s ease;
+ position: absolute;
+}
+
+.form-control:focus + .form-label {
+ transform: translate(10px, -52px);
+ width: max-content;
+ font-weight: bold;
+ background-color: white;
+ width: max-content;
+ color: #007bff;
+}
+
+.form-control:focus {
+ outline: none;
+ box-shadow: none;
+ border: 2px solid #007bff;
+}
