@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my eleventh assignment from the Alterra program, and here I created my third React project. In this assignment, I built a to-do list with increased difficulty compared to the previous ones, as I tackled event handling in React.
+This is my eleventh assignment from the Alterra program, and here I created my third React project. In this assignment, I built a to-do list with increased difficulty compared to the previous ones, as I tackled event handling in React and this project i use class component.
 
 ## Technology
 
