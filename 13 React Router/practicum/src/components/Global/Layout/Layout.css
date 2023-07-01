@@ -1,0 +1,35 @@
+.nav-tabs > li {
+ border-radius: 0;
+ font-size: 1.125em;
+ font-weight: 300;
+ outline: none;
+ color: w;
+ padding: 1rem 1.5rem;
+ display: flex;
+ align-items: center;
+ gap: 1rem;
+ border-radius: 3px 3px 0 0;
+ text-decoration: none;
+ transition: 0.3s ease;
+ cursor: pointer;
+}
+
+.nav-tabs {
+ background: #d0d8de;
+ border-color: transparent;
+ border-radius: 3px 3px 0 0;
+}
+
+.sidebar {
+ background: #ffffff;
+}
+
+.sidebar .icon-close {
+ cursor: pointer;
+}
+
+@media screen and (max-width: 992px) {
+ .sidebar {
+  background-color: rgba(255, 255, 255, 0.6);
+ }
+}
