@@ -1,0 +1,12 @@
+.alert {
+ animation: zoomIn 0.5s ease-in-out forwards;
+}
+
+@keyframes zoomIn {
+ from {
+  opacity: 0;
+ }
+ to {
+  opacity: 1;
+ }
+}
